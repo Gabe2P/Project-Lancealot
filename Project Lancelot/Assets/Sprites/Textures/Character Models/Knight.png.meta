@@ -1,0 +1,487 @@
+fileFormatVersion: 2
+guid: d5f668afa6157a04abdde934febbd64b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -254158049147823859
+    second: Full Body
+  - first:
+      213: -2912605832241475739
+    second: Torso
+  - first:
+      213: -6449357484901614806
+    second: Waist
+  - first:
+      213: 1068230879534547257
+    second: Right_Thigh
+  - first:
+      213: 3137715570873784927
+    second: Left_Thigh
+  - first:
+      213: -5874117251992171317
+    second: Right_Shoulder
+  - first:
+      213: 5256491065418830130
+    second: Left_Shoulder
+  - first:
+      213: 3309978940258766557
+    second: Left_Bicep
+  - first:
+      213: 1501801930747379530
+    second: Right_Bicep
+  - first:
+      213: 58249226062186783
+    second: Right_Hand
+  - first:
+      213: -8380009276265513387
+    second: Left_Hand
+  - first:
+      213: 4134470982481670237
+    second: Head
+  - first:
+      213: -6654602654450423622
+    second: Right_Shin
+  - first:
+      213: -5772638695900731253
+    second: Left_Shin
+  - first:
+      213: -933531471790697604
+    second: Foot
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Full Body
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 14
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95d3f7991194dd849828617f83980e24
+      internalID: -254158049147823859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Torso
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 9
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 228d41e0f29e78a4690a0ad2e1b36829
+      internalID: -2912605832241475739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Waist
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 5
+        width: 4
+        height: 3
+      alignment: 9
+      pivot: {x: 0.5000005, y: 0.82150525}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb794ae78f08fab46b794ace858f1b3c
+      internalID: -6449357484901614806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Right_Thigh
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 23
+        width: 3
+        height: 8
+      alignment: 9
+      pivot: {x: 0.68998146, y: 0.87265396}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 133ed227778af884e9fb4b29b99b90dd
+      internalID: 1068230879534547257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Left_Thigh
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 23
+        width: 3
+        height: 8
+      alignment: 9
+      pivot: {x: 0.32463455, y: 0.87265396}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7993e002cc01db44b54f2c8111f402b
+      internalID: 3137715570873784927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Right_Shoulder
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 25
+        width: 3
+        height: 7
+      alignment: 9
+      pivot: {x: 0.6461398, y: 0.8507331}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b66f35adccae164dbb556fff4a29dc7
+      internalID: -5874117251992171317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Left_Shoulder
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 25
+        width: 3
+        height: 7
+      alignment: 9
+      pivot: {x: 0.6461385, y: 0.8507331}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60d14e3088853aa498b89bf862936d99
+      internalID: 5256491065418830130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Left_Bicep
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 18
+        width: 2
+        height: 6
+      alignment: 9
+      pivot: {x: 0.50000095, y: 0.87265396}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46828c0cd10f76f4cb7225051b7db7a4
+      internalID: 3309978940258766557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Right_Bicep
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 18
+        width: 2
+        height: 6
+      alignment: 9
+      pivot: {x: 0.5, y: 0.87265396}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fefee14cb58dc64a806bc365277498f
+      internalID: 1501801930747379530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Right_Hand
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 15
+        width: 2
+        height: 2
+      alignment: 9
+      pivot: {x: 0.25887203, y: 0.7630501}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bf128e37b1f7644291e6dfe0caa9d41
+      internalID: 58249226062186783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Left_Hand
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 15
+        width: 2
+        height: 2
+      alignment: 9
+      pivot: {x: 0.21502876, y: 0.78497124}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c550d56411aa6ce4c91d3e71f1aceece
+      internalID: -8380009276265513387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 7
+        width: 10
+        height: 6
+      alignment: 9
+      pivot: {x: 0.7367447, y: 0.054276865}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d79fcc40147c9d499d4226e71d82a02
+      internalID: 4134470982481670237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Right_Shin
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 1
+        width: 2
+        height: 5
+      alignment: 9
+      pivot: {x: 0.5, y: 0.89457476}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc4b52fed983b4648abdacabc90f8b03
+      internalID: -6654602654450423622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Left_Shin
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 1
+        width: 2
+        height: 5
+      alignment: 9
+      pivot: {x: 0.50000095, y: 0.9121114}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 963ed9f33369ce349beb894c7d8bf965
+      internalID: -5772638695900731253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Foot
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 4
+        width: 4
+        height: 2
+      alignment: 9
+      pivot: {x: 0.2479105, y: 0.7849705}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bc3edc2f86bf334fa8bb4aca3b6a82d
+      internalID: -933531471790697604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
